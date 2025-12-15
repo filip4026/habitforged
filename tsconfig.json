@@ -13,8 +13,8 @@
     "jsx": "react-jsx",
     "strict": false,
     "noFallthroughCasesInSwitch": true
-  },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 
 }
+
